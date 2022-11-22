@@ -1,0 +1,9 @@
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\bin\Debug\CD_Serial.exe
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\bin\Debug\CD_Serial.pdb
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.csproj.AssemblyReference.cache
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.Form1.resources
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.Properties.Resources.resources
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.csproj.GenerateResource.cache
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.csproj.CoreCompileInputs.cache
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.exe
+J:\GitHub\CD_Compair\CD_Serial\CD_Serial\obj\Debug\CD_Serial.pdb
